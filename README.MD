@@ -2,6 +2,8 @@
 
 ### Setup
 
+`npm install -g ionic cordova`
+
 `git pull https://github.com/ihundahl/IonicHelloWorld.git`
 
 Request to become contributor on github
@@ -21,3 +23,7 @@ Edit/personalize home.page.html
 `git commit -m "personalized hello world"`
 
 `git push`
+
+### To Run
+
+`ionic serve`
