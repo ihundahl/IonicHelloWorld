@@ -4,13 +4,11 @@
 
 `npm install -g ionic cordova`
 
-`git pull https://github.com/ihundahl/IonicHelloWorld.git`
-
-Request to become contributor on github
-
 `git remote add origin https://github.com/ihundahl/IonicHelloWorld.git`
 
 `git remote -v`
+
+`git pull https://github.com/ihundahl/IonicHelloWorld.git`
 
 ### Create branch
 
