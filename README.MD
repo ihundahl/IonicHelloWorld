@@ -8,7 +8,7 @@
 
 `git remote -v`
 
-`git pull https://github.com/ihundahl/IonicHelloWorld.git`
+`git pull origin master`
 
 ### Create branch
 
