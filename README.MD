@@ -4,6 +4,8 @@
 
 `npm install -g ionic cordova`
 
+`git init`
+
 `git remote add origin https://github.com/ihundahl/IonicHelloWorld.git`
 
 `git remote -v`
