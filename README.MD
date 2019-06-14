@@ -28,7 +28,7 @@ Edit/personalize home.page.html
 
 `git merge someBranchName && git push`
 
-`git branch -d someBranchName`
+`git push -u origin someBranchName`
 
 ### To Run
 
