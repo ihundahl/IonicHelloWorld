@@ -20,7 +20,15 @@ Edit/personalize home.page.html
 
 `git commit -m "personalized hello world"`
 
-`git push`
+`git fetch`
+
+`git rebase -i origin/master`
+
+`git checkout master && git pull`
+
+`git merge someBranchName && git push`
+
+`git branch -d someBranchName`
 
 ### To Run
 
